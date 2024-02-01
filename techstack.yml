@@ -1,0 +1,124 @@
+repo_name: dmitriy-korotayev/nextjs-course-app
+report_id: 45aba96d8fddc713e3cab4a6cbca97db
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-01T09:00:54+00:00'
+requested_by: Hendrixer
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app
+  detection_source: Repo Metadata
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 9.5.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-28 19:48:41.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-29 01:43:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-28 19:48:41.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-28 19:48:41.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-29 04:26:27.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-29 01:43:15.000000000 Z
+- name: theme-ui
+  description: Build consistent
+  package_url: https://www.npmjs.com/theme-ui
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18286/default_14d018f911261a59bddc0d862496e58cd91c1853.png
+  detection_source_url: https://github.com/dmitriy-korotayev/nextjs-course-app/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Scott Moss
+  last_updated_on: 2020-07-29 01:43:15.000000000 Z
